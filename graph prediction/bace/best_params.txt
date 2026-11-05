@@ -1,0 +1,6 @@
+Best Experiment Name: bace_Transformer_L3_mlp_dim32_hidden_dim24_mlphiddendim_24_lr0.001
+Best Test Accuracy (General): 0.7368420958518982 with params: {'GNN_TYPE': 'Transformer', 'HEAD_TYPE': 'mlp', 'NUM_LAYERS': 3, 'EMBEDDING_DIM': 32, 'HIDDEN_DIM': 24, 'MLP_HIDDEN_DIM': 24, 'LR': 0.001}
+Best Test Accuracy (Embedding Dim 1): 0.7302631735801697 with params: {'GNN_TYPE': 'Transformer', 'HEAD_TYPE': 'linear', 'NUM_LAYERS': 3, 'EMBEDDING_DIM': 1, 'HIDDEN_DIM': 32, 'MLP_HIDDEN_DIM': 32, 'LR': 0.001}
+Best Test Accuracy (Embedding Dim 2): 0.7171052694320679 with params: {'GNN_TYPE': 'Transformer', 'HEAD_TYPE': 'linear', 'NUM_LAYERS': 3, 'EMBEDDING_DIM': 2, 'HIDDEN_DIM': 24, 'MLP_HIDDEN_DIM': 24, 'LR': 0.001}
+Best Test Accuracy (Embedding Dim 2): 0.7171052694320679 with params: {'GNN_TYPE': 'Transformer', 'HEAD_TYPE': 'linear', 'NUM_LAYERS': 3, 'EMBEDDING_DIM': 2, 'HIDDEN_DIM': 24, 'MLP_HIDDEN_DIM': 24, 'LR': 0.001}
+
